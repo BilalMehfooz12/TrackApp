@@ -1,0 +1,86 @@
+.side_bar_main {
+  height: 100vh;
+  background-color: rgb(17, 17, 17);
+  padding-left: 4%;
+  border-right: 3px solid rgb(33, 33, 33);
+}
+
+.logo {
+  padding-top: 5%;
+  display: flex !important;
+  justify-content: start !important;
+}
+
+.btn_bg {
+  margin: 4% 0%;
+  padding: 1% 1%;
+  padding-bottom: 2%;
+  border-radius: 5px;
+  margin-right: 3%;
+  display: flex !important;
+  justify-content: start !important;
+  align-items: center !important;
+  background-color: rgb(33, 33, 33);
+}
+
+.btn_solace {
+  margin: 4% 0%;
+  padding: 1% 1%;
+  padding-bottom: 2%;
+  border-radius: 5px;
+  margin-right: 3%;
+  background-color: rgb(33, 33, 33);
+}
+
+.btn {
+  margin: 4% 0%;
+  padding: 1% 1%;
+  padding-bottom: 2%;
+  border-radius: 5px;
+  margin-right: 3%;
+  display: flex !important;
+  justify-content: start !important;
+  align-items: center !important;
+}
+
+.linked_logo {
+  background-color: rgb(33, 33, 33);
+  height: 3vh;
+  padding: 25%;
+  border-radius: 10px;
+}
+
+.upgrade_btn {
+  margin: 4% 0%;
+  padding: 1% 1%;
+  padding-bottom: 2%;
+  border-radius: 5px;
+  margin-right: 3%;
+}
+
+.side_bar_main h1 {
+  color: white;
+  font-size: 16px;
+}
+
+.header_main h1 {
+  height: 5vh !important;
+}
+
+.new_btn {
+  background-color: rgb(61, 41, 15);
+  color: white;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 13px;
+  border: 2px solid rgb(211, 108, 5);
+}
+
+.header_main {
+  background-color: rgb(17, 17, 17);
+}
+.header_btn {
+  border-radius: 6px;
+  border: 1px solid rgb(62, 61, 61);
+  padding: 0% 5%;
+}

@@ -1,0 +1,31 @@
+.main_tabel {
+  height: 95vh;
+  background-color: aqua;
+}
+.projected_style {
+  background-color: rgb(17, 17, 17);
+  border-top: 2px solid rgb(33, 33, 33);
+  border-bottom: 2px solid rgb(33, 33, 33);
+  height: 5vh;
+}
+
+.pipe_color {
+  color: rgb(62, 62, 62);
+}
+
+.center_project {
+  display: flex;
+  align-items: center;
+  height: 5vh;
+}
+
+.input_filed {
+  background-color: transparent;
+  color: white;
+  border: none !important;
+  outline: none !important;
+}
+
+.input_field::-webkit-calendar-picker-indicator {
+  filter: invert(1) sepia(1) saturate(5) hue-rotate(175deg);
+}
